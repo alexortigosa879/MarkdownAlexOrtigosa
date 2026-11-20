@@ -13,3 +13,4 @@ Per fer un bon ramen instantani, primer hem de cuinar els **fideus orientals** e
 - [x] Posar aigua a bullir.
 - [ ] Coure els fideus exactament 3 minuts.
 - [ ] Afegir l'ous i el formatge perquè es fonguin amb el brou.
+hduashd
